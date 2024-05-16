@@ -1,2 +1,3 @@
-# Priceflow
-Priceflow is an app for find and offers of service in your house
+# price_flow_project
+
+A new Flutter project.
